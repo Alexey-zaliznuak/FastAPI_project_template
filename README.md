@@ -10,9 +10,5 @@ python -m venv venv
 
 Install requirements:
 ```
-pip install -r requirements.txt
-```
-Or:
-```
-pip install fastapi alembic asyncpg psycopg2 pydantic pydantic-settings SQLAlchemy
+pip install fastapi alembic asyncpg psycopg2 pydantic pydantic-settings SQLAlchemy slowapi
 ```
